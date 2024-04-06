@@ -1,0 +1,338 @@
+{
+  "hero": [
+    {
+      "id": "9",
+      "code": "S-03-09",
+      "name": "Special Salad",
+      "price": 500000,
+      "status": true,
+      "image": "special-salad.png"
+    }
+  ],
+  "best-products": [
+    {
+      "id": "1",
+      "code": "B-01-01",
+      "name": "Beef Potatoes",
+      "price": 160000,
+      "status": true,
+      "image": "beef-potatoes.png"
+    },
+    {
+      "id": "2",
+      "code": "B-02-02",
+      "name": "Beef Steak",
+      "price": 140000,
+      "status": true,
+      "image": "beef-steak.png"
+    },
+    {
+      "id": "3",
+      "code": "C-0103",
+      "name": "Chicken Potatoes",
+      "price": 120000,
+      "status": true,
+      "image": "chicken-potatoes.png"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "code": "B-01-01",
+      "name": "Beef Potatoes",
+      "price": 160000,
+      "status": true,
+      "image": "beef-potatoes.png"
+    },
+    {
+      "id": "2",
+      "code": "B-02-02",
+      "name": "Beef Steak",
+      "price": 140000,
+      "status": true,
+      "image": "beef-steak.png"
+    },
+    {
+      "id": "3",
+      "code": "C-0103",
+      "name": "Chicken Potatoes",
+      "price": 120000,
+      "status": true,
+      "image": "chicken-potatoes.png"
+    },
+    {
+      "id": "4",
+      "code": "D-01-04",
+      "name": "Duck Steak",
+      "price": 140000,
+      "status": true,
+      "image": "duck-steak.png"
+    },
+    {
+      "id": "5",
+      "code": "L-01-05",
+      "name": "Lamb Steak",
+      "price": 130000,
+      "status": true,
+      "image": "lamb-steak.png"
+    },
+    {
+      "id": "6",
+      "code": "S-01-06",
+      "name": "Salmon Salad",
+      "price": 100000,
+      "status": true,
+      "image": "salmon-salad.png"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "name": "djaja",
+      "noMeja": "31",
+      "cart": [
+        {
+          "amount": 2,
+          "description": "Spicy",
+          "products": {
+            "id": "1",
+            "code": "B-01-01",
+            "name": "Beef Potatoes",
+            "price": 160000,
+            "status": true,
+            "image": "beef-potatoes.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "123",
+      "noMeja": "123",
+      "cart": [
+        {
+          "amount": 2,
+          "products": {
+            "id": "1",
+            "code": "B-01-01",
+            "name": "Beef Potatoes",
+            "price": 160000,
+            "status": true,
+            "image": "beef-potatoes.png"
+          },
+          "id": 1
+        },
+        {
+          "amount": 1,
+          "description": "12",
+          "products": {
+            "id": "2",
+            "code": "B-02-02",
+            "name": "Beef Steak",
+            "price": 140000,
+            "status": true,
+            "image": "beef-steak.png"
+          },
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "123",
+      "noMeja": "213",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "1",
+            "code": "B-01-01",
+            "name": "Beef Potatoes",
+            "price": 160000,
+            "status": true,
+            "image": "beef-potatoes.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "123",
+      "noMeja": "123",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "2",
+            "code": "B-02-02",
+            "name": "Beef Steak",
+            "price": 140000,
+            "status": true,
+            "image": "beef-steak.png"
+          },
+          "id": 1
+        },
+        {
+          "amount": 1,
+          "products": {
+            "id": "3",
+            "code": "C-0103",
+            "name": "Chicken Potatoes",
+            "price": 120000,
+            "status": true,
+            "image": "chicken-potatoes.png"
+          },
+          "id": 2
+        },
+        {
+          "amount": 1,
+          "products": {
+            "id": "3",
+            "code": "C-0103",
+            "name": "Chicken Potatoes",
+            "price": 120000,
+            "status": true,
+            "image": "chicken-potatoes.png"
+          },
+          "id": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Andi",
+      "noMeja": "31-B-20",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "3",
+            "code": "C-0103",
+            "name": "Chicken Potatoes",
+            "price": 120000,
+            "status": true,
+            "image": "chicken-potatoes.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Mr. Djaja",
+      "noMeja": "31-B-02",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "3",
+            "code": "C-0103",
+            "name": "Chicken Potatoes",
+            "price": 120000,
+            "status": true,
+            "image": "chicken-potatoes.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Mr. Djaja",
+      "noMeja": "01-B-201",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "3",
+            "code": "C-0103",
+            "name": "Chicken Potatoes",
+            "price": 120000,
+            "status": true,
+            "image": "chicken-potatoes.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Mr. Djaja",
+      "noMeja": "31-B-01",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "4",
+            "code": "D-01-04",
+            "name": "Duck Steak",
+            "price": 140000,
+            "status": true,
+            "image": "duck-steak.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Mr. Djaja",
+      "noMeja": "31-B-01",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "4",
+            "code": "D-01-04",
+            "name": "Duck Steak",
+            "price": 140000,
+            "status": true,
+            "image": "duck-steak.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "Mr. Yandi",
+      "noMeja": "31-B-01",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "4",
+            "code": "D-01-04",
+            "name": "Duck Steak",
+            "price": 140000,
+            "status": true,
+            "image": "duck-steak.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "Mr. Djaja",
+      "noMeja": "01-B-201",
+      "cart": [
+        {
+          "amount": 1,
+          "products": {
+            "id": "4",
+            "code": "D-01-04",
+            "name": "Duck Steak",
+            "price": 140000,
+            "status": true,
+            "image": "duck-steak.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
