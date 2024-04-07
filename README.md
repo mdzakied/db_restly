@@ -1,19 +1,29 @@
-# db_restly
-Database untuk aplikasi Restly pada repo https://github.com/mdzakied/Restly.git yang dibuat menggunakan JSON Server.
+<h1 align="center" id="title">db_restly</h1>
 
-## Cara Instal
+<p align="center" id="description">database for restly demo web application for managing data resto for dine in order.</p>
 
-1. download / clone repo ini kemudian ketik `npm install -g json-server` untuk install json server di code editor
-2. jalankan perintah  `json-server --watch db.json` untuk menjalankan json server.
+<h2>🛠️ Installation Steps :</h2>
 
-## Fitur
+<p>1. Clone Repository</p>
 
-- Hero Menu makanan
-- Best Product Makanan
-- Menu Makanan
-- Keranjang Makanan
-- Pesanan Makanan
+```
+git clone https://github.com/mdzakied/db_restly.git
+```
 
-## Dibuat menggunakan
+<p>2. NPM Install JSON Server suitable version</p>
 
-- JSON Server
+```
+npm install npm install -g json-server@0.17.4
+```
+
+<p>3. Run JSON Server</p>
+
+```
+json-server --watch db.json
+```
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project :
+
+*  JSON Server
